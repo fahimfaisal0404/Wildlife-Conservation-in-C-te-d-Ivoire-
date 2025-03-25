@@ -1,12 +1,11 @@
-Crop Disease in Uganda
+Project 01: Wildlife Conservation in Côte d'Ivoire by WorldQuant University Applied AI course
 
-In this project we'll be working with a dataset of crop disease images from Uganda. We'll build and train a convolutional neural network to classify images into five categories. In the project We'll learn how to improve the performance of a computer vision model by using pre-trained models and by optimizing training with techniques like Callbacks.
+In this project, we'll look at a data science competition helping scientists track animals in a wildlife preserve. The goal is to take images from camera traps and classify which animal, if any, is present. To complete the competition, we'll expand your machine learning skills by creating more powerful neural network models that can take images as inputs and classify them into one of multiple categories.
 
-Objectives are: 
+Objectives are
 
-Explore a crop image dataset.
-Build and training a convolutional neural network to classify images into five classes.
-Improve the model by using Transfer Learning and adapting a pre-trained image classification model.
-Indentify model overfitting.
-Evaluate model performance using k-fold cross-validation.
-Utilize Callbacks like Learning Rate Scheduling, Checkpointing, and Early Stopping to optimize training.
+How to read image files and prepare them for machine learning
+How to use PyTorch to manipulate tensors and build a neural network model
+How to build a Convolutional Neural Network that works well with images
+How to use that model to make predictions on new images
+How to turn those predictions into a submission to the competition
